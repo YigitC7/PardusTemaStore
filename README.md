@@ -17,7 +17,7 @@ Henüz beta aşamasında olduğu için bazı optimizasyon hataları olabilir. Bi
 ## İndirmek
 
 ### Dosyalar
-Derlenmiş program dosyası: <b><a href="">indir</a> 64 Bit</b>
+Derlenmiş program dosyası: <b><a href="https://github.com/YigitC7/PardusTemaStore/releases/download/b1.0/PardusTemaMagazasi_beta1.0.zip">indir</a> 64 Bit</b>
 
 ### Manuel Derleme
 Programı derlemek için aşağıdaki komudu terminale yapıştırın
