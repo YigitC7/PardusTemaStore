@@ -22,8 +22,8 @@ Derlenmiş program dosyası: <b><a href="">indir</a> 64 Bit</b>
 ### Manuel Derleme
 Programı derlemek için aşağıdaki komudu terminale yapıştırın
 ```bash	
-sudo apt update
-sudo apt install git python3-venv
+sudo apt update -y && sudo apt upgrade -y
+sudo apt install git python3-venv -y
 gir clone github.com/YigitC7/PardusTemaStore
 cd PardusTemaStore
 python3 -m venv lib
