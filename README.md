@@ -32,8 +32,8 @@ Program henüz beta aşamasında olduğu için bazı optimizasyon hataları olab
 Bu program, Pardus XFCE sürümünde hiç test edilmemiştir. Yalnızca Gnome ortamında geliştirilip test edilmiştir. Bu nedenle, XFCE ortamında sorunsuz çalışmayabilir veya uyum sağlamayabilir.
 
 ## Dosya İşlevleri
-<b>main.py</b> Programın ana penceresi bu dosyada tanımlıdır.
-<b>Widagets.py</b> Programda ki bütün nesneler ve butonların fonksiyonları bu dosyada bulunur.
-<b>data.py</b> Birçok değişken ve indirme bağlantıları burada saklanır.
-<b>indirme_motoru.py</b> Bu python dosyası ise tema paketlerinin indirme ve kurulum yapayı sağlayan fonksiyonlar bulunur.
+<b>main.py</b> Programın ana penceresi bu dosyada tanımlıdır.<br>
+<b>Widagets.py</b> Programda ki bütün nesneler ve butonların fonksiyonları bu dosyada bulunur.<br>
+<b>data.py</b> Birçok değişken ve indirme bağlantıları burada saklanır.<br>
+<b>indirme_motoru.py</b> Bu python dosyası ise tema paketlerinin indirme ve kurulum yapayı sağlayan fonksiyonlar bulunur.<br>
 <b>img_create.py</b> Program üzerindeki resim ve görselleri tanımlamaya yardımcı bir fonksiyon bulunur.
