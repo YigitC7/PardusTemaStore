@@ -11,3 +11,6 @@ Pardus Tema Mağazası, Pardus işletim sisteminizi kişiselleştirmenize ve yen
 
 </div>
 
+## Nasıl Kullanılır?
+Henüz beta aşamasında olduğu için bazı optimizasyon hataları olabilir. Bir temayı "İndir" butonuna bastığınız anda, tema hızlı bir şekilde sisteminize yüklenir! Ancak bazı optimizasyon hataları nedeniyle, indirme ve kaldırma işlemleri sırasında program yanıt vermeyebilir. Bu yüzden, aynı anda birden fazla işlem yapmaya çalışmayın.
+
