@@ -30,3 +30,6 @@ Bir temayı indirdiniz ama nasıl aktif hale getireceğinizi bilmiyor musunuz? o
 ## Uyarı!
 Program henüz beta aşamasında olduğu için bazı optimizasyon hataları olabilir. Eğer internet bağlantınız zayıf veya hiç yoksa, program indirme işlemi sırasında yanıt vermeyebilir.
 Bu program, Pardus XFCE sürümünde hiç test edilmemiştir. Yalnızca Gnome ortamında geliştirilip test edilmiştir. Bu nedenle, XFCE ortamında sorunsuz çalışmayabilir veya uyum sağlamayabilir.
+
+## Dosya İşlevleri
+<p>main.py</p> 
