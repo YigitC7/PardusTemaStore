@@ -30,6 +30,7 @@ python3 -m venv lib
 source lib/bin/activate
 pip install pyinstaller customtkinter pillow
 pyinstaller --onefile --noconsole main.py
+cp -f dist/main PardusTemaStore
 ```
 
 ## Şuanki Tema içeriği
