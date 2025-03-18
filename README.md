@@ -32,4 +32,4 @@ Program henüz beta aşamasında olduğu için bazı optimizasyon hataları olab
 Bu program, Pardus XFCE sürümünde hiç test edilmemiştir. Yalnızca Gnome ortamında geliştirilip test edilmiştir. Bu nedenle, XFCE ortamında sorunsuz çalışmayabilir veya uyum sağlamayabilir.
 
 ## Dosya İşlevleri
-<p>main.py</p> 
+<b>main.py</b> 
