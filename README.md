@@ -37,6 +37,8 @@ Derlenmiş program dosyası: <a href="">indir</a>
 ```bash	
 sudo apt update
 sudo apt install git python3-venv
+gir clone github.com/YigitC7/PardusTemaStore
+cd PardusTemaStore
 python3 -m venv lib
 source lib/bin/activate
 pip install pyinstaller customtkinter pillow
