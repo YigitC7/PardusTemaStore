@@ -37,3 +37,7 @@ Bu program, Pardus XFCE sürümünde hiç test edilmemiştir. Yalnızca Gnome or
 <b>data.py</b> Birçok değişken ve indirme bağlantıları burada saklanır.<br>
 <b>indirme_motoru.py</b> Bu python dosyası ise tema paketlerinin indirme ve kurulum yapayı sağlayan fonksiyonlar bulunur.<br>
 <b>img_create.py</b> Program üzerindeki resim ve görselleri tanımlamaya yardımcı bir fonksiyon bulunur.
+
+## Kaynak
+Bütün tema paketleri <a href="https://www.gnome-look.org/browse/">Gnome look</a> sitesinden alınmıştır.
+İndirme işlemini benim Google Drive depomdan yapar. işte bütün <a href="https://drive.google.com/drive/folders/1pMVBmQWIJZRVufvMEMjYwO-ck17EqKq1?usp=drive_link">Temalar</a>
