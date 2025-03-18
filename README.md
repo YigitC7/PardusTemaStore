@@ -31,6 +31,18 @@ Bir temayı indirdiniz ama nasıl aktif hale getireceğinizi bilmiyor musunuz? o
 Program henüz beta aşamasında olduğu için bazı optimizasyon hataları olabilir. Eğer internet bağlantınız zayıf veya hiç yoksa, program indirme işlemi sırasında yanıt vermeyebilir.
 Bu program, Pardus XFCE sürümünde hiç test edilmemiştir. Yalnızca Gnome ortamında geliştirilip test edilmiştir. Bu nedenle, XFCE ortamında sorunsuz çalışmayabilir veya uyum sağlamayabilir.
 
+## İndirmek
+Derlenmiş program dosyası: <a href="">indir</a>
+### Manuel Derleme
+```bash	
+sudo apt update
+sudo apt install git python3-venv
+python3 -m venv lib
+source lib/bin/activate
+pip install pyinstaller customtkinter pillow
+pyinstaller --onefile --noconsole main.py
+```
+
 ## Dosya İşlevleri
 <b>main.py</b> Programın ana penceresi bu dosyada tanımlıdır.<br>
 <b>Widagets.py</b> Programda ki bütün nesneler ve butonların fonksiyonları bu dosyada bulunur.<br>
