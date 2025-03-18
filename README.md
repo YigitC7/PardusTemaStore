@@ -24,7 +24,7 @@ Programı derlemek için aşağıdaki komudu terminale yapıştırın
 ```bash	
 sudo apt update -y && sudo apt upgrade -y
 sudo apt install git python3-venv -y
-git clone github.com/YigitC7/PardusTemaStore
+git clone https://github.com/YigitC7/PardusTemaStore.git
 cd PardusTemaStore
 python3 -m venv lib
 source lib/bin/activate
