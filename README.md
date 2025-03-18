@@ -20,7 +20,7 @@ Henüz beta aşamasında olduğu için bazı optimizasyon hataları olabilir. Bi
 Derlenmiş program dosyası: <b><a href="">indir</a> 64 Bit</b>
 
 ### Manuel Derleme
-Programı derlemek için aiağıdaki komudu terminale yapıştırın
+Programı derlemek için aşağıdaki komudu terminale yapıştırın
 ```bash	
 sudo apt update
 sudo apt install git python3-venv
