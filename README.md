@@ -32,8 +32,10 @@ Program henüz beta aşamasında olduğu için bazı optimizasyon hataları olab
 Bu program, Pardus XFCE sürümünde hiç test edilmemiştir. Yalnızca Gnome ortamında geliştirilip test edilmiştir. Bu nedenle, XFCE ortamında sorunsuz çalışmayabilir veya uyum sağlamayabilir.
 
 ## İndirmek
-Derlenmiş program dosyası: <a href="">indir</a>
+### Dosyalar
+Derlenmiş program dosyası: <a href="">indir</a> 64 Bit
 ### Manuel Derleme
+Programı derlemek için aiağıdaki komudu terminale yapıştırın
 ```bash	
 sudo apt update
 sudo apt install git python3-venv
