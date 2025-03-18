@@ -14,6 +14,24 @@ Pardus Tema Mağazası, Pardus işletim sisteminizi kişiselleştirmenize ve yen
 ## Nasıl Kullanılır?
 Henüz beta aşamasında olduğu için bazı optimizasyon hataları olabilir. Bir temayı "İndir" butonuna bastığınız anda, tema hızlı bir şekilde sisteminize yüklenir! Ancak bazı optimizasyon hataları nedeniyle, indirme ve kaldırma işlemleri sırasında program yanıt vermeyebilir. Bu yüzden, aynı anda birden fazla işlem yapmaya çalışmayın.
 
+## İndirmek
+
+### Dosyalar
+Derlenmiş program dosyası: <a href="">indir</a> 64 Bit
+
+### Manuel Derleme
+Programı derlemek için aiağıdaki komudu terminale yapıştırın
+```bash	
+sudo apt update
+sudo apt install git python3-venv
+gir clone github.com/YigitC7/PardusTemaStore
+cd PardusTemaStore
+python3 -m venv lib
+source lib/bin/activate
+pip install pyinstaller customtkinter pillow
+pyinstaller --onefile --noconsole main.py
+```
+
 ## Şuanki Tema içeriği
 ### İmleç sayısı: 12
 ### Simge sayısı: 0
@@ -30,22 +48,6 @@ Bir temayı indirdiniz ama nasıl aktif hale getireceğinizi bilmiyor musunuz? o
 ## Uyarı!
 Program henüz beta aşamasında olduğu için bazı optimizasyon hataları olabilir. Eğer internet bağlantınız zayıf veya hiç yoksa, program indirme işlemi sırasında yanıt vermeyebilir.
 Bu program, Pardus XFCE sürümünde hiç test edilmemiştir. Yalnızca Gnome ortamında geliştirilip test edilmiştir. Bu nedenle, XFCE ortamında sorunsuz çalışmayabilir veya uyum sağlamayabilir.
-
-## İndirmek
-### Dosyalar
-Derlenmiş program dosyası: <a href="">indir</a> 64 Bit
-### Manuel Derleme
-Programı derlemek için aiağıdaki komudu terminale yapıştırın
-```bash	
-sudo apt update
-sudo apt install git python3-venv
-gir clone github.com/YigitC7/PardusTemaStore
-cd PardusTemaStore
-python3 -m venv lib
-source lib/bin/activate
-pip install pyinstaller customtkinter pillow
-pyinstaller --onefile --noconsole main.py
-```
 
 ## Dosya İşlevleri
 <b>main.py</b> Programın ana penceresi bu dosyada tanımlıdır.<br>
