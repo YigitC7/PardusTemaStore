@@ -1,4 +1,6 @@
 <div align="center">
+
+![image](IMG/icon.png)
   
 # Pardus Tema Mağazası
 Pardus Tema Mağazası, Pardus işletim sisteminizi kişiselleştirmenize ve yeni temalar indirmenize olanak tanır. Şu anda beta aşamasında olan bu mağazada 12 farklı imleç teması bulunmaktadır.
