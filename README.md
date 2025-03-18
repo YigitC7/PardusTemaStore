@@ -17,7 +17,7 @@ Henüz beta aşamasında olduğu için bazı optimizasyon hataları olabilir. Bi
 ## İndirmek
 
 ### Dosyalar
-Derlenmiş program dosyası: <a href="">indir</a> 64 Bit
+Derlenmiş program dosyası: <b><a href="">indir</a> 64 Bit</b>
 
 ### Manuel Derleme
 Programı derlemek için aiağıdaki komudu terminale yapıştırın
