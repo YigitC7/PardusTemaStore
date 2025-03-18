@@ -28,9 +28,10 @@ git clone https://github.com/YigitC7/PardusTemaStore.git
 cd PardusTemaStore
 python3 -m venv lib
 source lib/bin/activate
+pip install --upgrade pip setuptools wheel
 pip install pyinstaller customtkinter Pillow requests
 pip install resize
-pyinstaller --onefile --noconsole main.py
+pyinstaller --noconsole --onefile --windowed --hidden-import=PIL._tkinter_finder --hidden-import=PIL._imagingtk main.py
 cp -f dist/main PardusTemaStore
 ```
 
