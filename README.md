@@ -28,7 +28,7 @@ git clone https://github.com/YigitC7/PardusTemaStore.git
 cd PardusTemaStore
 python3 -m venv lib
 source lib/bin/activate
-pip install pyinstaller customtkinter pillow requests
+pip install pyinstaller customtkinter pillow requests resize
 pyinstaller --onefile --noconsole main.py
 cp -f dist/main PardusTemaStore
 ```
