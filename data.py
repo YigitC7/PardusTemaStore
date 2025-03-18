@@ -92,7 +92,7 @@ Email:\n yigitcitak.1817@gmail.com\n
 Github:\n github.com/yigitc7
 \n\n\n\n\n\n\n\n\n\n\n\n
 For Pardus
-© 2025 Pardus Tema Mağzası"""
+© 2025 Pardus Tema Mağazası"""
 
 UrunTema_ozellikleri = {
 	"panel__fg_color" : "white",

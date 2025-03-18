@@ -13,7 +13,7 @@ import Widgets
 class mainWindow:
 	def __init__(self,window):
 		self.window = window
-		self.window.title("Pardus Tema Mağzası")
+		self.window.title("Pardus Tema Mağazası")
 		self.window.geometry("1200x700")
 		self.window.minsize(1200,700)
 		self.window.maxsize(1920,1080)
