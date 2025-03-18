@@ -1,7 +1,6 @@
 <div align="center">
-
-<img src="IMG/icon.png" alt="logo" width="128"/>
   
+<img src="IMG/icon.png" alt="logo" width="128"/>
 # Pardus Tema Mağazası
 Pardus Tema Mağazası, Pardus işletim sisteminizi kişiselleştirmenize ve yeni temalar indirmenize olanak tanır. Şu anda beta aşamasında olan bu mağazada 12 farklı imleç teması bulunmaktadır.
   <a>
