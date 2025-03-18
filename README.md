@@ -30,7 +30,7 @@ python3 -m venv lib
 source lib/bin/activate
 pip install --upgrade pip setuptools wheel
 pip install pyinstaller customtkinter Pillow requests
-pip install resize
+pip install --no-cache-dir --force-reinstall Pillow
 pyinstaller --noconsole --onefile --windowed --hidden-import=PIL._tkinter_finder --hidden-import=PIL._imagingtk main.py
 cp -f dist/main PardusTemaStore
 ```
