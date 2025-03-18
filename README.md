@@ -22,3 +22,7 @@ Bir temayı indirdiniz ama nasıl aktif hale getireceğinizi bilmiyor musunuz? o
 ![image](IMG/win/ornek2.png)
 ## 3 Sekmeyi açtıktan sonra İmleçleri ve Simgeleri buradan değiştirebilirsiniz
 ![image](IMG/win/ornek3.png)
+
+## Uyarı!
+Program henüz beta aşamasında olduğu için bazı optimizasyon hataları olabilir. Eğer internet bağlantınız zayıf veya hiç yoksa, program indirme işlemi sırasında yanıt vermeyebilir. Ancak bu sorunların yakın zamanda düzeltilmesi beklenmektedir.
+Bu program, Pardus XFCE sürümünde hiç test edilmemiştir. Yalnızca Gnome ortamında geliştirilip test edilmiştir. Bu nedenle, XFCE ortamında sorunsuz çalışmayabilir veya uyum sağlamayabilir.
