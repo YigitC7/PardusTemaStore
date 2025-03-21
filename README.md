@@ -64,3 +64,6 @@ Bu program, Pardus XFCE sürümünde hiç test edilmemiştir. Yalnızca Gnome or
 
 ## Kaynak
 >Bütün tema paketleri <a href="https://www.gnome-look.org/browse/">Gnome look</a> sitesinden alınmıştır ve indirme işlemini benim Google Drive depomdan yapar, işte bütün <a href="https://drive.google.com/drive/folders/1pMVBmQWIJZRVufvMEMjYwO-ck17EqKq1?usp=drive_link">Temalar</a>
+
+## Proje İptal Edilmiştir
+Kullanıcıların ilgisizliği gibi nedenlerle proje iptal edilmiştir.
